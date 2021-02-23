@@ -4,6 +4,7 @@ description: |
   mfeo
 output_dir: "docs"
 theme: postcards.css
+google_analytics: "G-SLM3VZYSPY"
 navbar:
   right:
     - text: "Home"
